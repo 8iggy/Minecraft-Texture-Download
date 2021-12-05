@@ -12,7 +12,7 @@ public class Main extends Thread {
 
     public void start() {
         //Optional
-        File file = new File("C:\\filelocation\\photo.png");
+        File file = new File("filelocation\\photo.png");
         BufferedImage image = getTexture("barrier"); //NO CAPS
         try {
             ImageIO.write(image, "png", file);
