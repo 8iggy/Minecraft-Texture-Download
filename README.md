@@ -6,3 +6,5 @@ Download Any Minecraft Texture
 This is some random code I thought would be helpful to people.
 you basically can get any minecraft texture.
 I'm using the site https://mcasset.cloud/1.17.1/assets/minecraft/textures/item and there github to retreive the image.
+
+thinking of adding rezing of files so they aren't all 16x16.
